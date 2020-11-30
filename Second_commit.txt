@@ -1,3 +1,9 @@
-Nota teste francês: 17/20
-Nota teste economia: 18.5/20
-Nota redação economia: 12.6/20
+var text = "Humberto Borges";
+if (text == "Humberto Borges"){
+	alert("Olá, seja bem vindo "+text);
+}else{
+	alert("Olá, visitante, bem vindo ao site de Humberto Borges");
+}
+alert("Nota teste francês: 17/20 \n
+Nota teste economia: 18.5/20 \n
+Nota redação economia: 12.6/20 \n")
