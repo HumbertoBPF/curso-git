@@ -1,8 +1,11 @@
 var text = "Humberto Borges";
+var data = new Date();
 if (text == "Humberto Borges"){
 	alert("Olá, seja bem vindo "+text);
+	alert("Ano "+data.getYear());
 }else{
 	alert("Olá, visitante, bem vindo ao site de Humberto Borges");
+	alert("Ano "+data.getYear());
 }
 alert("Nota teste francês: 17/20 \n
 Nota teste economia: 18.5/20 \n
