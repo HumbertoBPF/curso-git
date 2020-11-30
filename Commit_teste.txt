@@ -1,1 +1,3 @@
-Commit test
+import numpy
+
+print("Hello world!")
