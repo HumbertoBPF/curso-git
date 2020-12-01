@@ -5,6 +5,8 @@
 </head>
 
 <body>
-	Texto 1
+	<h3>Texto 1</h3>
+	<p>Criando um alias para o commit</p>
+
 </body>
 
