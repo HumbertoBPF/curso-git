@@ -7,6 +7,6 @@ if (text == "Humberto Borges"){
 	alert("Olá, visitante, bem vindo ao site de Humberto Borges");
 	alert("Ano "+data.getYear());
 }
-alert("Nota teste francês: 17/20 \n
+alert("Nota produção escrita francês: 17/20 \n
 Nota teste economia: 18.5/20 \n
 Nota redação economia: 12.6/20 \n")
